@@ -1,0 +1,17 @@
+header{
+    min-height: 400px;
+    background-image: url(../images/bg.jpg);
+    background-size: cover;
+    background-position: center -500px;
+    color:white;
+}
+
+main input{
+    width:40px;
+}
+
+main #id_cart{
+    height: 200px;
+    overflow: scroll;
+    overflow-x: hidden;
+}
